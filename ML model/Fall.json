@@ -1,0 +1,1249 @@
+{
+  "1622033255" : {
+    "-MachouWTi7ExNVlBM5P" : {
+      "gyrox" : "-0.04154658",
+      "gyroy" : "-0.2791078",
+      "gyroz" : "-0.0085223755"
+    },
+    "-MachovoLllbyHM3Mg-c" : {
+      "accx" : "-5.2385135",
+      "accy" : "3.5051112",
+      "accz" : "7.3406224"
+    },
+    "-MachoxkWgdpjjEHDl_5" : {
+      "gyrox" : "-0.02450183",
+      "gyroy" : "-0.15659864",
+      "gyroz" : "-0.23436533"
+    }
+  },
+  "1622033256" : {
+    "-Machoz0nrcDvZFsvD1c" : {
+      "accx" : "-3.964798",
+      "accy" : "4.5202527",
+      "accz" : "9.016563"
+    },
+    "-Machp-mOkSAyNqWN0eg" : {
+      "gyrox" : "0.043677174",
+      "gyroy" : "-0.7286631",
+      "gyroz" : "0.47405714"
+    },
+    "-Machp1COd6uxpRQEA3n" : {
+      "accx" : "-3.8738184",
+      "accy" : "6.655881",
+      "accz" : "10.505757"
+    },
+    "-Machp377Ba0daQThQnY" : {
+      "gyrox" : "0.1395539",
+      "gyroy" : "1.0589051",
+      "gyroz" : "-1.2240262"
+    },
+    "-Machp4MpwJD1asFhmS6" : {
+      "accx" : "-0.16280572",
+      "accy" : "-0.18195933",
+      "accz" : "0.06703765"
+    },
+    "-Machp6Hmbg3ZMYzI3gd" : {
+      "gyrox" : "-0.4570124",
+      "gyroy" : "-1.6245779",
+      "gyroz" : "-1.5723783"
+    },
+    "-Machp7WH5bGrsqg7Pwn" : {
+      "accx" : "-0.15801731",
+      "accy" : "-0.095768064",
+      "accz" : "0.7517793"
+    },
+    "-Machp9Td_E_sliZQDqX" : {
+      "gyrox" : "-2.0922432",
+      "gyroy" : "-2.5524514",
+      "gyroz" : "0.15553336"
+    },
+    "-MachpAKd70mCSXJgPgH" : {
+      "accx" : "2.8491",
+      "accy" : "-0.81402856",
+      "accz" : "2.3558946"
+    },
+    "-MachpCPdGrP-XU7agZB" : {
+      "gyrox" : "-0.5891092",
+      "gyroy" : "0.10759499",
+      "gyroz" : "0.36646214"
+    }
+  },
+  "1622033257" : {
+    "-MachpDZcYI4FBr3tewr" : {
+      "accx" : "3.8786068",
+      "accy" : "-1.3742718",
+      "accz" : "7.240066"
+    },
+    "-MachpFWpF_CtqVZ_L-Z" : {
+      "gyrox" : "-0.0042611877",
+      "gyroy" : "-0.03835069",
+      "gyroz" : "-0.0021305939"
+    },
+    "-MachpGlpa01Dm-oC3jf" : {
+      "accx" : "3.442862",
+      "accy" : "-1.436521",
+      "accz" : "7.8912888"
+    },
+    "-MachpIi_S8MMPYlN-Fr" : {
+      "gyrox" : "-0.07137489",
+      "gyroy" : "0.39629045",
+      "gyroz" : "0.14594568"
+    },
+    "-MachpJwN_MHSMgtU8sy" : {
+      "accx" : "3.040636",
+      "accy" : "-2.183512",
+      "accz" : "9.188946"
+    },
+    "-MachpLwo_PKo-f38btW" : {
+      "gyrox" : "0.0010652969",
+      "gyroy" : "0.1033338",
+      "gyroz" : "0.03728539"
+    },
+    "-MachpN6p7G3yUeJO8nl" : {
+      "accx" : "3.1124623",
+      "accy" : "-1.6759412",
+      "accz" : "8.24563"
+    },
+    "-MachpOy7ljI4ZDaV5v9" : {
+      "gyrox" : "0.13316211",
+      "gyroy" : "0.6413088",
+      "gyroz" : "0.08415846"
+    },
+    "-MachpQDMOtRsw_npuzj" : {
+      "accx" : "2.9257145",
+      "accy" : "-1.8914193",
+      "accz" : "9.3182335"
+    }
+  },
+  "1622033258" : {
+    "-MachpSEIBt-eCd43qe4" : {
+      "gyrox" : "-0.039415985",
+      "gyroy" : "-0.043677174",
+      "gyroz" : "0.03089361"
+    },
+    "-MachpTUjed5OGcrdU5x" : {
+      "accx" : "3.145981",
+      "accy" : "-2.2457612",
+      "accz" : "9.260772"
+    },
+    "-MachpVRemlSoTcJvAO7" : {
+      "gyrox" : "0.0010652969",
+      "gyroy" : "0.036220096",
+      "gyroz" : "0.014914157"
+    },
+    "-MachpWdth2QyulbxqLK" : {
+      "accx" : "2.9879637",
+      "accy" : "-2.1068976",
+      "accz" : "9.059659"
+    }
+  },
+  "1622040670" : {
+    "-Mad968IJPXn0gy-d4Lr" : {
+      "accx" : "-0.33518824",
+      "accy" : "2.0590134",
+      "accz" : "5.415684"
+    },
+    "-Mad968aMGtN3iKtGmx1" : {
+      "gyrox" : "-0.031958908",
+      "gyroy" : "-0.5315832",
+      "gyroz" : "0.60402334"
+    },
+    "-Mad96BBSCbcDpa_eDMw" : {
+      "accx" : "-0.20111294",
+      "accy" : "1.8674773",
+      "accz" : "11.535264"
+    },
+    "-Mad96BVkg1fsVJWGfTB" : {
+      "gyrox" : "0.19601464",
+      "gyroy" : "0.1395539",
+      "gyroz" : "0.15979454"
+    },
+    "-Mad96EEjEwBGTqM5tCw" : {
+      "accx" : "-4.8602295",
+      "accy" : "5.884948",
+      "accz" : "4.8506527"
+    },
+    "-Mad96EVBGBT1DAmedRH" : {
+      "gyrox" : "-1.8770531",
+      "gyroy" : "3.164997",
+      "gyroz" : "0.4516859"
+    }
+  },
+  "1622040671" : {
+    "-Mad96HV524-LJsZmL-O" : {
+      "accx" : "-1.6807296",
+      "accy" : "2.695871",
+      "accz" : "9.701305"
+    },
+    "-Mad96Ho82SOxv6oZDir" : {
+      "gyrox" : "-0.49642837",
+      "gyroy" : "-0.43037996",
+      "gyroz" : "2.2989109"
+    },
+    "-Mad96KXID4BF0ilczU2" : {
+      "accx" : "-11.391612",
+      "accy" : "-5.559336",
+      "accz" : "24.368185"
+    },
+    "-Mad96Khz3cbHi3f5QDz" : {
+      "gyrox" : "-2.4874682",
+      "gyroy" : "-9.666505",
+      "gyroz" : "-1.8078089"
+    },
+    "-Mad96NswU4UW10__fW0" : {
+      "accx" : "-1.163582",
+      "accy" : "-10.199299",
+      "accz" : "19.598934"
+    },
+    "-Mad96NtMrMZxX3cE8y7" : {
+      "accx" : "0.7230489",
+      "accy" : "-1.3024458",
+      "accz" : "9.720459"
+    },
+    "-Mad96O5Bky1Y5MyLTRQ" : {
+      "gyrox" : "0.7552955",
+      "gyroy" : "1.9132733",
+      "gyroz" : "0.30254433"
+    },
+    "-Mad96O8mwLvyZ1xXT7R" : {
+      "gyrox" : "0.04261188",
+      "gyroy" : "0.16618632",
+      "gyroz" : "-0.031958908"
+    },
+    "-Mad96QqP7Yt33MMtcGt" : {
+      "accx" : "0.8283938",
+      "accy" : "-0.81402856",
+      "accz" : "9.811439"
+    },
+    "-Mad96R0hInEzLoIHnz_" : {
+      "gyrox" : "0.02769772",
+      "gyroy" : "-0.10652969",
+      "gyroz" : "-0.113986775"
+    }
+  },
+  "1622040672" : {
+    "-Mad96UDkkKXxC756fpY" : {
+      "accx" : "0.90500826",
+      "accy" : "-0.78050977",
+      "accz" : "9.715671"
+    },
+    "-Mad96UUKZIYzVL6yEl9" : {
+      "gyrox" : "0.0",
+      "gyroy" : "-0.012783563",
+      "gyroz" : "-0.0074570784"
+    },
+    "-Mad96XD6s62S_ScoGi2" : {
+      "accx" : "0.94331545",
+      "accy" : "-0.7182605",
+      "accz" : "9.442732"
+    },
+    "-Mad96XXF8aad90u6ved" : {
+      "gyrox" : "0.036220096",
+      "gyroy" : "-0.03089361",
+      "gyroz" : "-0.005326485"
+    }
+  },
+  "1622040850" : {
+    "-Mad9mvpm42sGR4lJWQJ" : {
+      "accx" : "0.60333884",
+      "accy" : "2.3989902",
+      "accz" : "5.2002063"
+    },
+    "-Mad9mvwtO8TY4rjqqMe" : {
+      "gyrox" : "-0.26312834",
+      "gyroy" : "1.1931325",
+      "gyroz" : "0.7169448"
+    },
+    "-Mad9mz-oOmOrFStA905" : {
+      "accx" : "-0.5267244",
+      "accy" : "0.076614454",
+      "accz" : "10.845734"
+    },
+    "-Mad9mz9IC6FSZ0ziFet" : {
+      "gyrox" : "-0.99711794",
+      "gyroy" : "1.6618632",
+      "gyroz" : "2.6110427"
+    },
+    "-Mad9n13qk-0dYRAsDly" : {
+      "accx" : "-1.4030021",
+      "accy" : "5.5162406",
+      "accz" : "5.056554"
+    },
+    "-Mad9n1DFgcYk9zDz-Z2" : {
+      "gyrox" : "-2.9977455",
+      "gyroy" : "2.353241",
+      "gyroz" : "6.2053547"
+    },
+    "-Mad9n4Ltj2FKFW8haTl" : {
+      "accx" : "-16.864758",
+      "accy" : "4.865018",
+      "accz" : "8.121132"
+    },
+    "-Mad9n4ZlluBEdNlL-mR" : {
+      "gyrox" : "-2.2829313",
+      "gyroy" : "5.6023965",
+      "gyroz" : "2.3234127"
+    },
+    "-Mad9n7Vb3Fx_5qWFifb" : {
+      "accx" : "-12.071565",
+      "accy" : "4.663905",
+      "accz" : "-1.7908629"
+    },
+    "-Mad9n7fhgg-ud_mfBKE" : {
+      "gyrox" : "2.422485",
+      "gyroy" : "-3.56981",
+      "gyroz" : "-2.0794597"
+    }
+  },
+  "1622040851" : {
+    "-Mad9nAlx7qgtH-zZhvG" : {
+      "accx" : "-1.6950948",
+      "accy" : "4.0174704",
+      "accz" : "4.88896"
+    },
+    "-Mad9nAwPY06AEc8DTJu" : {
+      "gyrox" : "-1.8280495",
+      "gyroy" : "1.4136491",
+      "gyroz" : "-2.9753745"
+    },
+    "-Mad9nDyIInHDsrfNO2U" : {
+      "accx" : "-4.074931",
+      "accy" : "1.1061212",
+      "accz" : "4.43885"
+    },
+    "-Mad9nE89JDJ4dVmtsuq" : {
+      "gyrox" : "-0.05646074",
+      "gyroy" : "1.6714509",
+      "gyroz" : "-0.46233886"
+    },
+    "-Mad9nH-anrS3VIC4cYV" : {
+      "accx" : "-4.855441",
+      "accy" : "2.0829554",
+      "accz" : "9.452309"
+    },
+    "-Mad9nH98R3LXKVhaweq" : {
+      "gyrox" : "-0.29721785",
+      "gyroy" : "0.29402196",
+      "gyroz" : "0.023436533"
+    }
+  },
+  "1622040897" : {
+    "-Mad9yZ2cIQW-z0Opodx" : {
+      "accx" : "-7.656657",
+      "accy" : "1.733402",
+      "accz" : "7.503428"
+    },
+    "-Mad9yZH-KHBmMwSGwSB" : {
+      "gyrox" : "0.045807768",
+      "gyroy" : "-0.12144385",
+      "gyroz" : "-0.18003519"
+    },
+    "-Mad9yb9jNCIJEp-mhtw" : {
+      "accx" : "-0.10055647",
+      "accy" : "-0.062249243",
+      "accz" : "-0.14844051"
+    },
+    "-Mad9ybO3tTKEVbhumFY" : {
+      "gyrox" : "-0.41013932",
+      "gyroy" : "-2.2467113",
+      "gyroz" : "-0.23649593"
+    }
+  },
+  "1622040898" : {
+    "-Mad9yeMDeMeMYYEp7Yz" : {
+      "accx" : "-0.10055647",
+      "accy" : "-0.0047884034",
+      "accz" : "0.02873042"
+    },
+    "-Mad9yeYGiYMnXYL1fj0" : {
+      "gyrox" : "-0.53264844",
+      "gyroy" : "-2.3223474",
+      "gyroz" : "-0.1022685"
+    },
+    "-Mad9yhUo5MbVuYR7QyA" : {
+      "accx" : "0.7565677",
+      "accy" : "-2.4229321",
+      "accz" : "5.386954"
+    },
+    "-Mad9yhedpnZiM8IE7Uu" : {
+      "gyrox" : "-1.14839",
+      "gyroy" : "-0.5219955",
+      "gyroz" : "0.29189137"
+    },
+    "-Mad9ykhok_k4ASgB0yH" : {
+      "accx" : "2.1164744",
+      "accy" : "-2.801216",
+      "accz" : "9.370906"
+    },
+    "-Mad9ykvxrg-mTxSr10b" : {
+      "gyrox" : "-0.01065297",
+      "gyroy" : "-0.046873067",
+      "gyroz" : "0.0085223755"
+    },
+    "-Mad9ynuYBoTcUpoaUgr" : {
+      "accx" : "2.992752",
+      "accy" : "-3.7110126",
+      "accz" : "8.901642"
+    },
+    "-Mad9yo3duzAf468c3QT" : {
+      "gyrox" : "0.043677174",
+      "gyroy" : "-0.08735435",
+      "gyroz" : "-0.035154797"
+    },
+    "-Mad9yr0IDlaAsbR9nEm" : {
+      "accx" : "2.695871",
+      "accy" : "-2.6862943",
+      "accz" : "9.006987"
+    },
+    "-Mad9yrGrbTBwcKeos7l" : {
+      "gyrox" : "-0.23010413",
+      "gyroy" : "0.070309594",
+      "gyroz" : "0.07670138"
+    }
+  },
+  "1622040899" : {
+    "-Mad9yuCfozCmOemuD8N" : {
+      "accx" : "2.7629087",
+      "accy" : "-2.9400797",
+      "accz" : "9.32781"
+    },
+    "-Mad9yuPRGRM9C00rwES" : {
+      "gyrox" : "0.13103153",
+      "gyroy" : "-0.0031958907",
+      "gyroz" : "-0.1033338"
+    },
+    "-Mad9yxMYWu7ASTo6uxA" : {
+      "accx" : "2.1787236",
+      "accy" : "-1.6136919",
+      "accz" : "9.500193"
+    },
+    "-Mad9yxVMaeowI-lQeLV" : {
+      "gyrox" : "0.089484945",
+      "gyroy" : "0.044742472",
+      "gyroz" : "-0.019175345"
+    }
+  },
+  "1622041131" : {
+    "-MadArlYGeKCspcgdSIT" : {
+      "accx" : "-5.185841",
+      "accy" : "2.4229321",
+      "accz" : "7.608773"
+    },
+    "-MadArllz81OHWv8cgzx" : {
+      "gyrox" : "-0.06604841",
+      "gyroy" : "0.091615535",
+      "gyroz" : "-0.091615535"
+    }
+  },
+  "1622041132" : {
+    "-MadArohlQE5PHKqLyqV" : {
+      "accx" : "-4.9703627",
+      "accy" : "2.7341783",
+      "accz" : "7.1059904"
+    },
+    "-MadArouZ3hZsHHYmXNd" : {
+      "gyrox" : "-0.2418224",
+      "gyroy" : "0.07350549",
+      "gyroz" : "0.10652969"
+    },
+    "-MadArrnhwUc2fsVMBNi" : {
+      "accx" : "-1.9871874",
+      "accy" : "7.489063",
+      "accz" : "8.087613"
+    },
+    "-MadArrrbyZ-eYRRKyTH" : {
+      "gyrox" : "-1.940971",
+      "gyroy" : "-0.30893612",
+      "gyroz" : "-0.12890093"
+    },
+    "-MadArv2IiBrN28ON3lG" : {
+      "accx" : "-0.19153613",
+      "accy" : "-0.29688102",
+      "accz" : "-0.05746084"
+    },
+    "-MadArvD3CHG3A-X9tia" : {
+      "gyrox" : "1.8568126",
+      "gyroy" : "0.18110047",
+      "gyroz" : "-2.2307317"
+    },
+    "-MadAryElU8DveG-Jwf_" : {
+      "accx" : "1.2354081",
+      "accy" : "-3.1603463",
+      "accz" : "11.027693"
+    },
+    "-MadAryQGw5E130gsWH2" : {
+      "gyrox" : "0.5241261",
+      "gyroy" : "1.2176344",
+      "gyroz" : "2.0666761"
+    }
+  },
+  "1622041133" : {
+    "-MadAs0ThgDfkyWSk4hN" : {
+      "accx" : "0.033518825",
+      "accy" : "0.36391866",
+      "accz" : "9.801862"
+    },
+    "-MadAs0dPvnPmgYHKyKw" : {
+      "gyrox" : "-0.0074570784",
+      "gyroy" : "0.0031958907",
+      "gyroz" : "0.0021305939"
+    },
+    "-MadAs3Bn5yGGNIHyakI" : {
+      "accx" : "0.0",
+      "accy" : "0.35434186",
+      "accz" : "9.844957"
+    },
+    "-MadAs3Jv1KA0Z_XAFAi" : {
+      "gyrox" : "-0.020240642",
+      "gyroy" : "0.02130594",
+      "gyroz" : "0.005326485"
+    },
+    "-MadAs6FGjid8SJUt8sw" : {
+      "accx" : "-0.047884032",
+      "accy" : "0.31124622",
+      "accz" : "9.801862"
+    },
+    "-MadAs6K_JZbNPAU3i-h" : {
+      "gyrox" : "0.0074570784",
+      "gyroy" : "0.019175345",
+      "gyroz" : "-0.0021305939"
+    },
+    "-MadAs9OOOVZYPQoByLu" : {
+      "accx" : "-0.1340753",
+      "accy" : "-0.0047884034",
+      "accz" : "9.931149"
+    },
+    "-MadAs9UOzv7ihQmMiTc" : {
+      "gyrox" : "0.017044751",
+      "gyroy" : "0.23223473",
+      "gyroz" : "0.0063917814"
+    },
+    "-MadAsCf6WjCqH0EsTNj" : {
+      "accx" : "-0.110133275",
+      "accy" : "0.29209262",
+      "accz" : "9.821015"
+    },
+    "-MadAsCoGFFmGfwG0THL" : {
+      "gyrox" : "-0.009587673",
+      "gyroy" : "-0.0085223755",
+      "gyroz" : "-0.0031958907"
+    }
+  },
+  "1622041347" : {
+    "-MadBgOLwTpqxheVJ9mD" : {
+      "gyrox" : "-0.9491796",
+      "gyroy" : "0.7840586",
+      "gyroz" : "-0.32811147"
+    },
+    "-MadBgOTbKXLlROkv5Ep" : {
+      "accx" : "-0.090979666",
+      "accy" : "3.5673606",
+      "accz" : "1.292869"
+    },
+    "-MadBgRTE3uUT-Bhgm0K" : {
+      "gyrox" : "0.24608359",
+      "gyroy" : "-2.2392542",
+      "gyroz" : "0.7723403"
+    },
+    "-MadBgRaJ9cs6KbCQvoZ" : {
+      "accx" : "-1.3120226",
+      "accy" : "-1.283292",
+      "accz" : "7.038953"
+    },
+    "-MadBgU_KQpMHYFMIFuV" : {
+      "gyrox" : "-0.6540923",
+      "gyroy" : "-0.8948494",
+      "gyroz" : "-0.32385027"
+    },
+    "-MadBgUinrsTJZUzQMHk" : {
+      "accx" : "-5.329493",
+      "accy" : "-3.4093432",
+      "accz" : "12.397177"
+    }
+  },
+  "1622041348" : {
+    "-MadBgXo_Y8BbmIs-dki" : {
+      "gyrox" : "0.11292148",
+      "gyroy" : "-0.28123838",
+      "gyroz" : "-0.1043991"
+    },
+    "-MadBgXwXWV5sKBYtuCl" : {
+      "accx" : "-2.9161377",
+      "accy" : "0.6847417",
+      "accz" : "9.495404"
+    }
+  },
+  "1622042034" : {
+    "-MadEJ1ZaHsFhzQBhkaI" : {
+      "accx" : "-1.0199299",
+      "accy" : "3.193865",
+      "accz" : "6.9288197"
+    },
+    "-MadEJ1hedE8VttSaIpV" : {
+      "gyrox" : "-0.50708133",
+      "gyroy" : "0.12570503",
+      "gyroz" : "-0.13103153"
+    },
+    "-MadEJ4ir5AD2juqbMoD" : {
+      "accx" : "1.1252748",
+      "accy" : "2.8395233",
+      "accz" : "8.810662"
+    },
+    "-MadEJ4s648bnuxZThPm" : {
+      "gyrox" : "-0.6647453",
+      "gyroy" : "-1.4647833",
+      "gyroz" : "-0.85543346"
+    },
+    "-MadEJ7qlo8MuQRUL2HE" : {
+      "accx" : "-3.514688",
+      "accy" : "5.4683566",
+      "accz" : "14.279019"
+    },
+    "-MadEJ8-hJ7d_OXeVC0a" : {
+      "gyrox" : "-1.2762257",
+      "gyroy" : "-0.6658106",
+      "gyroz" : "-0.8991106"
+    },
+    "-MadEJB4l3W0JbCdXU9a" : {
+      "accx" : "-3.442862",
+      "accy" : "-2.657564",
+      "accz" : "21.121647"
+    },
+    "-MadEJBDg1ag_Erp-sP-" : {
+      "gyrox" : "3.2949634",
+      "gyroy" : "0.5869786",
+      "gyroz" : "2.4927948"
+    }
+  },
+  "1622042035" : {
+    "-MadEJEGo0Fah4wsD0pP" : {
+      "accx" : "3.5577838",
+      "accy" : "-1.3599066",
+      "accz" : "3.1651347"
+    },
+    "-MadEJET_NxwSe1fI798" : {
+      "gyrox" : "-0.6157416",
+      "gyroy" : "1.1270841",
+      "gyroz" : "-1.0961906"
+    },
+    "-MadEJHRuymxgs-__qin" : {
+      "accx" : "-1.0486604",
+      "accy" : "1.9488802",
+      "accz" : "2.15957"
+    },
+    "-MadEJHabY0ivARxUO01" : {
+      "gyrox" : "-0.6402435",
+      "gyroy" : "1.6320349",
+      "gyroz" : "0.018110048"
+    },
+    "-MadEJKo5QUYd9MdKw4l" : {
+      "accx" : "-1.0773908",
+      "accy" : "2.882619",
+      "accz" : "14.925453"
+    },
+    "-MadEJKtyLBUvt_fbyvX" : {
+      "gyrox" : "-0.03835069",
+      "gyroy" : "-1.1196271",
+      "gyroz" : "0.24608359"
+    },
+    "-MadEJNx-67seNqAVewb" : {
+      "accx" : "-3.7972038",
+      "accy" : "2.7581203",
+      "accz" : "11.836933"
+    },
+    "-MadEJO6SUWX5MB5fLzM" : {
+      "gyrox" : "-0.6072193",
+      "gyroy" : "-0.15553336",
+      "gyroz" : "-0.35367858"
+    }
+  },
+  "1622210281" : {
+    "-ManG76mudHyVhmie-57" : {
+      "gyrox" : "-0.57206446",
+      "gyroy" : "0.23223473",
+      "gyroz" : "-0.6413088"
+    },
+    "-ManG783CXAG400KP_Sc" : {
+      "accx" : "-1.6280571",
+      "accy" : "3.8594532",
+      "accz" : "8.0445175"
+    },
+    "-ManG79s1kHYW_CgL_a7" : {
+      "gyrox" : "0.05646074",
+      "gyroy" : "0.95663667",
+      "gyroz" : "-0.15659864"
+    },
+    "-ManG7BIE26ArTYFAoIu" : {
+      "accx" : "-2.7006595",
+      "accy" : "5.559336",
+      "accz" : "6.8426285"
+    },
+    "-ManG7D3Q2IGJ4ajr_Av" : {
+      "gyrox" : "-1.406192",
+      "gyroy" : "1.7577399",
+      "gyroz" : "-1.0269462"
+    },
+    "-ManG7EUPYejjm8MSszi" : {
+      "accx" : "-0.047884032",
+      "accy" : "0.047884032",
+      "accz" : "0.009576807"
+    },
+    "-ManG7GCvI3miyuRmwLE" : {
+      "gyrox" : "-0.6647453",
+      "gyroy" : "-2.134855",
+      "gyroz" : "-0.24608359"
+    },
+    "-ManG7H_qmXYpBElFvV4" : {
+      "accx" : "-18.109741",
+      "accy" : "-71.299324",
+      "accz" : "-156.79626"
+    },
+    "-ManG7JO9U1mAXYzQx9g" : {
+      "gyrox" : "1.0876682",
+      "gyroy" : "-1.3763636",
+      "gyroz" : "0.02130594"
+    },
+    "-ManG7KnfEAj0nude56H" : {
+      "accx" : "0.45010993",
+      "accy" : "0.49799395",
+      "accz" : "9.284714"
+    }
+  },
+  "1622210282" : {
+    "-ManG7MbU9nFDQHYN-vD" : {
+      "gyrox" : "0.022371236",
+      "gyroy" : "0.0042611877",
+      "gyroz" : "0.0021305939"
+    },
+    "-ManG7NzkZWFeJPL1wSU" : {
+      "accx" : "0.34955344",
+      "accy" : "0.46926352",
+      "accz" : "9.89763"
+    },
+    "-ManG7PkqM1xcfmL6POs" : {
+      "gyrox" : "0.046873067",
+      "gyroy" : "0.09694202",
+      "gyroz" : "-0.012783563"
+    },
+    "-ManG7RAyve9VIY-mqgC" : {
+      "accx" : "-0.18195933",
+      "accy" : "0.32561144",
+      "accz" : "9.744401"
+    },
+    "-ManG7Swt8myAGFNtpgT" : {
+      "gyrox" : "0.011718267",
+      "gyroy" : "0.017044751",
+      "gyroz" : "0.015979454"
+    },
+    "-ManG7UITt2Ew7BdSdJ1" : {
+      "accx" : "-0.39743748",
+      "accy" : "0.24420857",
+      "accz" : "9.404425"
+    }
+  },
+  "1622210330" : {
+    "-ManGJD7afREboLTV7Gx" : {
+      "gyrox" : "0.43890235",
+      "gyroy" : "-0.71481425",
+      "gyroz" : "0.07883197"
+    },
+    "-ManGJDW8TuZk4iiSKnK" : {
+      "accx" : "-1.9249382",
+      "accy" : "5.1475334",
+      "accz" : "7.991845"
+    },
+    "-ManGJG8IlxLpBt5OEO6" : {
+      "gyrox" : "-0.14914156",
+      "gyroy" : "-0.63811284",
+      "gyroz" : "-0.23756121"
+    },
+    "-ManGJGkG0eQVSDpOJu1" : {
+      "accx" : "-1.4269443",
+      "accy" : "5.8945246",
+      "accz" : "9.02614"
+    }
+  },
+  "1622210331" : {
+    "-ManGJJD_sp9cB4Ieaxq" : {
+      "gyrox" : "-2.0496314",
+      "gyroy" : "5.1816044",
+      "gyroz" : "0.56247675"
+    },
+    "-ManGJJq1zPkkMxRCuzn" : {
+      "accx" : "-4.1132383",
+      "accy" : "7.9343843",
+      "accz" : "10.146626"
+    },
+    "-ManGJMRxz5PM8kQaOsT" : {
+      "gyrox" : "1.3976696",
+      "gyroy" : "-1.9526893",
+      "gyroz" : "-0.771275"
+    },
+    "-ManGJN19quVZIWaaWvP" : {
+      "accx" : "-0.14844051",
+      "accy" : "-0.08140286",
+      "accz" : "0.023942016"
+    },
+    "-ManGJPdV1hRNoLRkorQ" : {
+      "gyrox" : "3.527198",
+      "gyroy" : "3.0765777",
+      "gyroz" : "0.42505348"
+    },
+    "-ManGJQE_yMeIp5AI6Zt" : {
+      "accx" : "0.20111294",
+      "accy" : "-4.4340615",
+      "accz" : "9.404425"
+    },
+    "-ManGJSnJ3Yz7-mxwC_l" : {
+      "gyrox" : "-0.0031958907",
+      "gyroy" : "0.011718267",
+      "gyroz" : "0.0021305939"
+    },
+    "-ManGJTO49Z2Eek9jIG3" : {
+      "accx" : "0.80445176",
+      "accy" : "1.163582",
+      "accz" : "9.768343"
+    },
+    "-ManGJVyNHlrEtkylqd6" : {
+      "gyrox" : "0.0085223755",
+      "gyroy" : "0.011718267",
+      "gyroz" : "-0.0021305939"
+    },
+    "-ManGJWb0rp2Zvw_54ew" : {
+      "accx" : "0.90021986",
+      "accy" : "1.1300632",
+      "accz" : "9.648633"
+    }
+  },
+  "1622210332" : {
+    "-ManGJZAJTos4u8LTdkf" : {
+      "gyrox" : "0.122509144",
+      "gyroy" : "0.12570503",
+      "gyroz" : "-0.0042611877"
+    },
+    "-ManGJZmgNPDk59HobNO" : {
+      "accx" : "0.40222588",
+      "accy" : "1.2880806",
+      "accz" : "9.227253"
+    }
+  },
+  "1622210418" : {
+    "-ManGddqdal5nu4mGwlA" : {
+      "gyrox" : "0.044742472",
+      "gyroy" : "-0.6604841",
+      "gyroz" : "-0.25034478"
+    },
+    "-ManGdeSrQ9rbuTVV_Fb" : {
+      "accx" : "-1.9057846",
+      "accy" : "4.189853",
+      "accz" : "8.882488"
+    },
+    "-ManGdh2ZWrshYAlzwXz" : {
+      "gyrox" : "0.1725781",
+      "gyroy" : "1.1814142",
+      "gyroz" : "-0.50495076"
+    },
+    "-ManGdhcKOvWBEUx8po0" : {
+      "accx" : "-3.1747115",
+      "accy" : "7.2831616",
+      "accz" : "9.854534"
+    },
+    "-ManGdkHPNnLle1bFRd5" : {
+      "gyrox" : "-0.5347791",
+      "gyroy" : "0.46979594",
+      "gyroz" : "-0.98859555"
+    },
+    "-ManGdkpvu3CR5BNrf6z" : {
+      "accx" : "-0.3878607",
+      "accy" : "1.1061212",
+      "accz" : "-0.22026655"
+    }
+  },
+  "1622210419" : {
+    "-ManGdnT-X1TelQm7KKP" : {
+      "gyrox" : "0.21305938",
+      "gyroy" : "-0.026632423",
+      "gyroz" : "0.09587672"
+    },
+    "-ManGdo26Nd5lCix3kZh" : {
+      "accx" : "-0.06703765",
+      "accy" : "0.019153614",
+      "accz" : "0.4309563"
+    },
+    "-ManGdqWlSrgxuaxAvD-" : {
+      "gyrox" : "-3.8446567",
+      "gyroy" : "-2.575888",
+      "gyroz" : "0.06604841"
+    },
+    "-ManGdr7-l2KGZZSQLf2" : {
+      "accx" : "-0.320823",
+      "accy" : "0.06703765",
+      "accz" : "5.3438582"
+    },
+    "-ManGdtk19tAFIFC3_j0" : {
+      "gyrox" : "-0.23223473",
+      "gyroy" : "0.059656627",
+      "gyroz" : "-0.02450183"
+    },
+    "-ManGduLskVp03cYkGNu" : {
+      "accx" : "-2.006341",
+      "accy" : "2.0111294",
+      "accz" : "9.050082"
+    },
+    "-ManGdwuDSYlnW-yvZHO" : {
+      "gyrox" : "-0.02130594",
+      "gyroy" : "-0.03835069",
+      "gyroz" : "0.0042611877"
+    },
+    "-ManGdxUY799ewSO9TFf" : {
+      "accx" : "-1.7956513",
+      "accy" : "2.542642",
+      "accz" : "9.361329"
+    },
+    "-ManGe-3Y4I8BajlJpNM" : {
+      "gyrox" : "0.0021305939",
+      "gyroy" : "0.0042611877",
+      "gyroz" : "0.0"
+    },
+    "-ManGe-irPr0-EHBsjfG" : {
+      "accx" : "-1.6232687",
+      "accy" : "2.6479871",
+      "accz" : "9.169792"
+    }
+  },
+  "1622210420" : {
+    "-ManGe1vH4jPGrjnY3Lk" : {
+      "gyrox" : "-0.028763017",
+      "gyroy" : "0.12144385",
+      "gyroz" : "-0.005326485"
+    },
+    "-ManGe2Kces_-uavEQpF" : {
+      "gyrox" : "0.0021305939",
+      "gyroy" : "-0.020240642",
+      "gyroz" : "0.0"
+    },
+    "-ManGe2ule8HxK5uKXm7" : {
+      "accx" : "-1.8052281",
+      "accy" : "2.6384103",
+      "accz" : "9.308656"
+    }
+  },
+  "1622210426" : {
+    "-ManGfa1y-kVzr8i7lZ7" : {
+      "accx" : "-0.8523358",
+      "accy" : "4.146757",
+      "accz" : "7.9008656"
+    },
+    "-ManGfaqGiav5bBXiHWR" : {
+      "gyrox" : "-0.4175964",
+      "gyroy" : "-1.1089741",
+      "gyroz" : "-0.18323107"
+    },
+    "-ManGfdDmOQ7BLCgYJPZ" : {
+      "accx" : "1.5275006",
+      "accy" : "5.3486466",
+      "accz" : "9.811439"
+    },
+    "-ManGfdy6N_s5w9piXoW" : {
+      "gyrox" : "0.02130594",
+      "gyroy" : "-0.40800872",
+      "gyroz" : "-0.08202787"
+    },
+    "-ManGfgOF0kVmTJgbpmt" : {
+      "accx" : "1.2689269",
+      "accy" : "9.174581",
+      "accz" : "8.7292595"
+    }
+  },
+  "1622210427" : {
+    "-ManGfh97uuuy2iehHo3" : {
+      "gyrox" : "0.42292288",
+      "gyroy" : "-1.2549198",
+      "gyroz" : "-0.47831833"
+    },
+    "-ManGfjawRh7BmsWtvNQ" : {
+      "accx" : "-0.30166942",
+      "accy" : "-0.009576807",
+      "accz" : "-0.1340753"
+    },
+    "-ManGfkJdXfwoSDHWvHE" : {
+      "gyrox" : "0.32491556",
+      "gyroy" : "-3.824416",
+      "gyroz" : "0.62213343"
+    },
+    "-ManGfmjvuIUnFzTpu4l" : {
+      "accx" : "-0.17238252",
+      "accy" : "-0.05267244",
+      "accz" : "-0.15801731"
+    },
+    "-ManGfnX7wj8oj6-XKR6" : {
+      "gyrox" : "-3.5921812",
+      "gyroy" : "20.436657",
+      "gyroz" : "9.460902"
+    },
+    "-ManGfpuL2vykXbLSiD3" : {
+      "accx" : "4.2425256",
+      "accy" : "0.50757074",
+      "accz" : "8.920795"
+    },
+    "-ManGfqhy_hKWapIFya2" : {
+      "gyrox" : "-0.16618632",
+      "gyroy" : "0.043677174",
+      "gyroz" : "-0.057526033"
+    },
+    "-ManGft5rCUxf6OeiC0D" : {
+      "accx" : "1.9440918",
+      "accy" : "0.25378537",
+      "accz" : "9.476251"
+    },
+    "-ManGfts8CdkqloanBEO" : {
+      "gyrox" : "0.011718267",
+      "gyroy" : "-0.07137489",
+      "gyroz" : "-0.0021305939"
+    }
+  },
+  "1622210428" : {
+    "-ManGfwO-9t02gpvIruh" : {
+      "accx" : "1.9297266",
+      "accy" : "0.23463176",
+      "accz" : "9.730036"
+    },
+    "-ManGfx2OwA_rOecdnPn" : {
+      "gyrox" : "-0.0042611877",
+      "gyroy" : "0.009587673",
+      "gyroz" : "0.0031958907"
+    },
+    "-ManGfzQdnkhh1YnogK8" : {
+      "accx" : "1.6711528",
+      "accy" : "0.33997664",
+      "accz" : "9.782708"
+    },
+    "-ManGg-E4AjMm6Sbo_Wz" : {
+      "gyrox" : "-0.0063917814",
+      "gyroy" : "0.012783563",
+      "gyroz" : "-0.0010652969"
+    },
+    "-ManGg1ZcOnwYp84euhD" : {
+      "accx" : "2.0494366",
+      "accy" : "-0.17717093",
+      "accz" : "9.782708"
+    }
+  },
+  "1622210541" : {
+    "-ManH6cO5D6fQ1RvfioG" : {
+      "gyrox" : "-0.7307937",
+      "gyroy" : "1.2517239",
+      "gyroz" : "-0.15340276"
+    },
+    "-ManH6dmh4a0lfqaxGc4" : {
+      "accx" : "-0.7661445",
+      "accy" : "2.777274",
+      "accz" : "4.4484267"
+    },
+    "-ManH6fYF9hY-pzI389F" : {
+      "gyrox" : "0.0021305939",
+      "gyroy" : "-1.4008654",
+      "gyroz" : "-0.1043991"
+    },
+    "-ManH6gyWKQ9Y5XZEaJ7" : {
+      "accx" : "-0.05746084",
+      "accy" : "0.05267244",
+      "accz" : "0.05746084"
+    },
+    "-ManH6iitypfKO2g5sNL" : {
+      "gyrox" : "-0.25460598",
+      "gyroy" : "-0.29615256",
+      "gyroz" : "0.4154658"
+    },
+    "-ManH6kB1clSIi6N6uBu" : {
+      "accx" : "-33.188423",
+      "accy" : "-19.79526",
+      "accz" : "62.52697"
+    }
+  },
+  "1622210542" : {
+    "-ManH6luhg30nIlFMgiG" : {
+      "gyrox" : "0.68498594",
+      "gyroy" : "-0.71907544",
+      "gyroz" : "-0.16938221"
+    },
+    "-ManH6nK-C5yEuk7MWSp" : {
+      "accx" : "-0.24899697",
+      "accy" : "4.084508",
+      "accz" : "12.856863"
+    },
+    "-ManH6p7u5y7etkI0__i" : {
+      "gyrox" : "0.045807768",
+      "gyroy" : "-0.119313255",
+      "gyroz" : "0.0031958907"
+    },
+    "-ManH6qQZPfIGk-AIXUF" : {
+      "accx" : "0.2825158",
+      "accy" : "3.2992098",
+      "accz" : "9.270349"
+    },
+    "-ManH6sG6SLqEijt6-ou" : {
+      "gyrox" : "0.10120321",
+      "gyroy" : "0.07883197",
+      "gyroz" : "-0.005326485"
+    },
+    "-ManH6teBbHZLyfnTvUw" : {
+      "accx" : "0.18195933",
+      "accy" : "3.3758245",
+      "accz" : "9.299079"
+    },
+    "-ManH6vNlIDGkMPmHCdO" : {
+      "gyrox" : "0.089484945",
+      "gyroy" : "0.4218576",
+      "gyroz" : "-0.03835069"
+    }
+  },
+  "1622210553" : {
+    "-ManH9XF2EEvikmvHDMq" : {
+      "accx" : "-4.309563",
+      "accy" : "7.1155677",
+      "accz" : "6.3829417"
+    },
+    "-ManH9Xo4jMouqwiBQmr" : {
+      "gyrox" : "-1.5457458",
+      "gyroy" : "4.058781",
+      "gyroz" : "0.119313255"
+    },
+    "-ManH9_L218a7p0wV1Tz" : {
+      "accx" : "-0.81402856",
+      "accy" : "2.9783869",
+      "accz" : "3.787627"
+    },
+    "-ManH9_zpGU395Hd0WnL" : {
+      "gyrox" : "0.71907544",
+      "gyroy" : "-1.8482902",
+      "gyroz" : "-0.60828453"
+    },
+    "-ManH9cVd2kRL4HaVdEA" : {
+      "accx" : "-0.31124622",
+      "accy" : "-0.07182605",
+      "accz" : "0.40701428"
+    },
+    "-ManH9d9zOHAM-OL1c_X" : {
+      "gyrox" : "0.4431635",
+      "gyroy" : "-3.9916675",
+      "gyroz" : "-1.4583915"
+    },
+    "-ManH9fgae1O27BiT-xP" : {
+      "accx" : "-0.033518825",
+      "accy" : "-4.4340615",
+      "accz" : "5.8226986"
+    },
+    "-ManH9gKtyKXNqLfPGyL" : {
+      "gyrox" : "0.5901745",
+      "gyroy" : "0.23116943",
+      "gyroz" : "0.53797495"
+    },
+    "-ManH9isGGq1pgouv5Go" : {
+      "accx" : "0.1436521",
+      "accy" : "-0.34476504",
+      "accz" : "9.557653"
+    },
+    "-ManH9jVyXG0I8djuTyi" : {
+      "gyrox" : "0.09907261",
+      "gyroy" : "-0.02450183",
+      "gyroz" : "0.01065297"
+    }
+  },
+  "1622210554" : {
+    "-ManH9m2p0_potJf94Tl" : {
+      "accx" : "0.23463176",
+      "accy" : "0.35913026",
+      "accz" : "9.725247"
+    },
+    "-ManH9mfgC9wnJ4CA3yI" : {
+      "gyrox" : "0.0085223755",
+      "gyroy" : "0.012783563",
+      "gyroz" : "0.0042611877"
+    },
+    "-ManH9pGz3IcQcZuXqaS" : {
+      "accx" : "-0.06703765",
+      "accy" : "0.4261679",
+      "accz" : "9.873688"
+    },
+    "-ManH9psB3gAi1g-A9Ng" : {
+      "gyrox" : "-0.009587673",
+      "gyroy" : "-0.014914157",
+      "gyroz" : "0.012783563"
+    },
+    "-ManH9sP4uYZVHosaIJs" : {
+      "accx" : "-0.6560113",
+      "accy" : "0.21547815",
+      "accz" : "10.314221"
+    }
+  },
+  "1622210562" : {
+    "-ManHBsXNLNn043fLxyw" : {
+      "gyrox" : "-0.67539823",
+      "gyroy" : "0.53371376",
+      "gyroz" : "-0.0085223755"
+    },
+    "-ManHBuZN-0VfNlbUOFk" : {
+      "accx" : "-2.7820623",
+      "accy" : "7.3789296",
+      "accz" : "4.213795"
+    },
+    "-ManHBvhu0N5F4R-MEMR" : {
+      "gyrox" : "-2.730356",
+      "gyroy" : "-0.32171968",
+      "gyroz" : "0.79151565"
+    }
+  },
+  "1622210563" : {
+    "-ManHBxlhy-e1oMyOJUs" : {
+      "accx" : "-1.4460979",
+      "accy" : "-0.94810385",
+      "accz" : "7.551312"
+    },
+    "-ManHByrRVHrOJYJL6Uy" : {
+      "gyrox" : "0.68498594",
+      "gyroy" : "-3.7615635",
+      "gyroz" : "0.27058542"
+    },
+    "-ManHC-wZV8qn3v7ZjQC" : {
+      "accx" : "-25.61317",
+      "accy" : "-50.96298",
+      "accz" : "-156.79626"
+    },
+    "-ManHC12jO-JWfOe0EqQ" : {
+      "gyrox" : "-1.765197",
+      "gyroy" : "-5.4979973",
+      "gyroz" : "0.009587673"
+    },
+    "-ManHC38JniRRIVIgs2p" : {
+      "accx" : "-2.3942018",
+      "accy" : "4.8219223",
+      "accz" : "24.26284"
+    },
+    "-ManHC4FximReeqlMr5t" : {
+      "gyrox" : "1.0312074",
+      "gyroy" : "-0.24501829",
+      "gyroz" : "-0.21412468"
+    },
+    "-ManHC6IiIAQxp2cbn-e" : {
+      "accx" : "1.0534488",
+      "accy" : "0.1340753",
+      "accz" : "9.921572"
+    },
+    "-ManHC7OLmMqnIDTPemq" : {
+      "gyrox" : "0.0042611877",
+      "gyroy" : "0.031958908",
+      "gyroz" : "0.011718267"
+    },
+    "-ManHC9S1JBERjwRWpgO" : {
+      "accx" : "1.0199299",
+      "accy" : "0.24420857",
+      "accz" : "9.739613"
+    },
+    "-ManHCA_532WqvOXSxdn" : {
+      "gyrox" : "0.02769772",
+      "gyroy" : "-0.43890235",
+      "gyroz" : "-0.005326485"
+    }
+  }
+}
