@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/txtview_magnetoz"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/startbtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="START" />
+
+        <Button
+            android:id="@+id/endbtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="END" />
+
+        <TextView
+            android:id="@+id/txtview_result"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="100px"
+            android:layout_below="@id/endbtn" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/txtview_accx_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Accelerometer X  " />
+
+
+    <TextView
+        android:id="@+id/txtview_accx"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/txtview_accx_name"
+        android:layout_alignBottom="@+id/txtview_accx_name"
+        android:layout_toRightOf="@id/txtview_accx_name" />
+
+    <TextView
+        android:id="@+id/txtview_accy_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtview_accx_name"
+        android:text="Accelerometer Y  " />
+
+
+    <TextView
+        android:id="@+id/txtview_accy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/txtview_accy_name"
+        android:layout_alignBottom="@+id/txtview_accy_name"
+        android:layout_toRightOf="@id/txtview_accy_name" />
+
+    <TextView
+        android:id="@+id/txtview_accz_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtview_accy_name"
+        android:text="Accelerometer Z  " />
+
+
+    <TextView
+        android:id="@+id/txtview_accz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/txtview_accz_name"
+        android:layout_alignBottom="@+id/txtview_accz_name"
+        android:layout_toRightOf="@id/txtview_accz_name" />
+
+    <TextView
+        android:id="@+id/txtview_gyrox_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtview_accz_name"
+        android:text="Gyrometer X  " />
+
+
+    <TextView
+        android:id="@+id/txtview_gyrox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/txtview_gyrox_name"
+        android:layout_alignBottom="@+id/txtview_gyrox_name"
+        android:layout_toRightOf="@id/txtview_gyrox_name" />
+
+    <TextView
+        android:id="@+id/txtview_gyroy_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtview_gyrox_name"
+        android:text="Gyrometer Y  " />
+
+
+    <TextView
+        android:id="@+id/txtview_gyroy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/txtview_gyroy_name"
+        android:layout_alignBottom="@+id/txtview_gyroy_name"
+        android:layout_toRightOf="@id/txtview_gyroy_name" />
+
+    <TextView
+        android:id="@+id/txtview_gyroz_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtview_gyroy_name"
+        android:text="Gyrometer Z  " />
+
+
+    <TextView
+        android:id="@+id/txtview_gyroz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/txtview_gyroz_name"
+        android:layout_alignBottom="@+id/txtview_gyroz_name"
+        android:layout_toRightOf="@id/txtview_gyroz_name" />
+
+    <TextView
+        android:id="@+id/txtview_magnetox_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtview_gyroz_name"
+        android:text="Magnetometer X  " />
+
+
+    <TextView
+        android:id="@+id/txtview_magnetox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/txtview_magnetox_name"
+        android:layout_alignBottom="@+id/txtview_magnetox_name"
+        android:layout_toRightOf="@id/txtview_magnetox_name" />
+
+    <TextView
+        android:id="@+id/txtview_magnetoy_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtview_magnetox_name"
+        android:text="Magnetometer Y  " />
+
+
+    <TextView
+        android:id="@+id/txtview_magnetoy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/txtview_magnetoy_name"
+        android:layout_alignBottom="@+id/txtview_magnetoy_name"
+        android:layout_toRightOf="@id/txtview_magnetoy_name" />
+
+    <TextView
+        android:id="@+id/txtview_magnetoz_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtview_magnetoy_name"
+        android:text="Magnetometer Z  " />
+
+
+    <TextView
+        android:id="@+id/txtview_magnetoz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/txtview_magnetoz_name"
+        android:layout_alignBottom="@+id/txtview_magnetoz_name"
+        android:layout_toRightOf="@id/txtview_magnetoz_name" />
+
+</RelativeLayout>
